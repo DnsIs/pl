@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="Динамит FM" group-title="Радио",D-FM
+http://109.120.141.181:8000/dfm_vk_com_app2462?type=.flv
+#EXTINF:0 tvg-logo="NRJ 12",NRJ FM
+http://ru2.101.ru:8000/v1_1
+#EXTINF:0 tvg-logo="ТТК",Russian! Radio
+http://play.russianradio.eu/
+#EXTINF:0 tvg-logo="ТТК",Апекс радио
+http://webcast.apexradio.ru:8000/NvkzMp3
+#EXTINF:0 tvg-logo="ТТК",В ритме 90х 
+http://webcast.apexradio.ru:8000/90
+#EXTINF:0 tvg-logo="ТТК",Club Touch 
+http://webcast.apexradio.ru:8000/clubtouch
+#EXTINF:0 tvg-logo="ТТК",Миллениум Апекс Радио
+http://webcast.apexradio.ru:8000/2000
+#EXTINF:0 tvg-logo="Радио рекорд",Радио рекорд
+http://air.radiorecord.ru:8101/rr_128
+#EXTINF:0 tvg-logo="Europa Plus TV",Европа Плюс
+http://ep128.streamr.ru
+#EXTINF:0 tvg-logo="ТТК",Русский Хит
+http://imgradio.pro/RusHit
+#EXTINF:0 tvg-logo="ТТК",Дорожное Радио
+http://188.138.1.7:9000/753aac-fm-dorognoe?type=.flv
+#EXTINF:0 tvg-logo="ТТК",Авторадио
+http://81.19.85.197/auto128.mp3
+#EXTINF:0 tvg-logo="ТТК",Дискотека 80-Х
+http://stream04.media.rambler.ru/disco128.mp3
+#EXTINF:0 tvg-logo="ТТК",Русское Радио
+http://online-rusradio.tavrmedia.ua/RusRadio
+#EXTINF:0 tvg-logo="ТТК",ЮFM
+http://81.19.85.203/unost128.mp3?r=1334948031776
+#EXTINF:0 tvg-logo="ТТК",Радио Ваня
+http://stream01.media.rambler.ru/vanya64.mp3
+#EXTINF:0 tvg-logo="ТТК",Наше Радио
+http://mp3.nashe.ru/nashe-128.mp3
+#EXTINF:0 tvg-logo="ТТК",Юмор FM
+http://stream01.media.rambler.ru/umor128.mp3
+#EXTINF:0 tvg-logo="ТТК",Эхо Москвы
+http://81.19.85.197/echo.mp3
+#EXTINF:0 tvg-logo="ТТК",ХИТ FM
+http://hit.fmtuner.ru/
+#EXTINF:0 tvg-logo="ТТК",Кузбасс FM
+http://217.116.128.15:8000/kuzbassfm
+#EXTINF:0 tvg-logo="ТТК",DANCERADIO
+http://play.danceradio.ru:9000/804664aac?type=.flv
+#EXTINF:0 tvg-logo="ТТК",Heart FM
+http://83.246.143.25:8000/HFMHigh
+#EXTINF:0 tvg-logo="ТТК",NN-Radio
+http://cast.r52.ru:8000/nrd
+#EXTINF:0 tvg-logo="ТТК",Авторитетное Радио
+http://84.22.142.130:8000/arstream
+#EXTINF:0 tvg-logo="ТТК",Вести FM
+http://stream03.media.rambler.ru/vesti64.mp3
+#EXTINF:0 tvg-logo="ТТК",Восток FM
+http://vostok.fmtuner.ru/mp3:1.mp3
+#EXTINF:0 tvg-logo="ТТК",Джем FM
+http://online.radiojamfm.ru:8000/jam
+#EXTINF:0 tvg-logo="ТТК",Макс FM
+http://mxsel.maksmedia.ru:8000/maksfm96
+#EXTINF:0 tvg-logo="ТТК",МЕГА РАДИО
+http://mega.imgradio.pro/MegaRadio48?type=.flv
+#EXTINF:0 tvg-logo="ТТК",Мегаполис FM
+http://stream04.media.rambler.ru/megapolis128.mp3?lovi
+#EXTINF:0 tvg-logo="ТТК",Милицейская Волна
+http://stream01.media.rambler.ru/mv128.mp3
+#EXTINF:0 tvg-logo="ТТК",Новая Волна
+http://89.249.224.121:8010/;stream.nsv
+#EXTINF:0 tvg-logo="ТТК",Первое радио
+http://217.19.105.43:8000
+#EXTINF:0 tvg-logo="ТТК",Пилот FM
+http://online.pilotfm.ru:8000/pilot_aacplus?type=.flv
+#EXTINF:0 tvg-logo="ТТК",Радио 107
+http://62.183.34.109:8000/radio107.mp3
+#EXTINF:0 tvg-logo="ТТК",Радио 161FM
+http://stream.161.fm:8000/128
+#EXTINF:0 tvg-logo="ТТК",Радио DJSTATION.RU
+http://91.144.128.125:80/stream192
+#EXTINF:0 tvg-logo="ТТК",Радио ZFM
+http://radio.radiozfm.ru:8000/aac?type=.flv
+#EXTINF:0 tvg-logo="ТТК",Радио Метро
+http://195.182.132.18:8240/;stream.nsv
+#EXTINF:0 tvg-logo="ТТК",Радио Сибирь
+http://188.168.81.200:8000/radiosibir192
+#EXTINF:0 tvg-logo="ТТК",Связной Радио
+http://svyaznoy.hostingradio.ru:8010/svyaznoy_radio
+#EXTINF:0 tvg-logo="ТТК",Юнитон
+http://online.r-uniton.ru:8800/;stream.nsv
+#EXTINF:0 tvg-logo="ТТК",Сибирская волна
+http://radiosv.tomsk.ru:8080;stream.nsv
+#EXTINF:0 tvg-logo="ТТК",Русский Шторм
+http://radio.rushtorm.ru:8000/mp3
+#EXTINF:0 tvg-logo="ТТК",Радио Шория
+http://151.248.116.223:8000/radioshoriya128k
+#EXTINF:0 tvg-logo="ТТК",Радио СК
+http://online.radiosk.ru:8000/sk
+#EXTINF:0 tvg-logo="ТТК",Радио Пурга
+http://31.193.195.50:8002/live
+#EXTINF:0 tvg-logo="ТТК",Радио Вышка
+http://194.226.234.44:10192/;stream.nsv
+#EXTINF:0 tvg-logo="ТТК",Радио ВОЛХОВ ФМ
+http://78.129.190.50:23622/;stream.nsv
+#EXTINF:0 tvg-logo="ТТК",Радио Zaycev FM
+http://radio.zaycev.fm:9002/ZaycevFM(128)?type=.flv
+#EXTINF:0 tvg-logo="ТТК",Радио МСМ
+http://91.227.68.150:10000/hit128
+#EXTINF:0 tvg-logo="ТТК",Пульс-радио Йошкар-Ола
+http://r1.vmariel.ru:8000/puls
+#EXTINF:0 tvg-logo="ТТК",Миллениум Казань
+http://apps.imgradio.ru/MilleniumKazan-001?type=.flv
+#EXTINF:0 tvg-logo="ТТК",Horoshee.FM
+http://radio.horoshee.fm:8000/aac?type=.flv
